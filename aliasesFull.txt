@@ -1,0 +1,241 @@
+latin name,german name,english name
+Acanthis cabaret,Alpenbirkenzeisig,Lesser redpoll
+Accipiter gentilis,Habicht,American goshawk
+Accipiter nisus,Sperber,Eurasian sparrowhawk
+Acrocephalus arundinaceus,Drosselrohrsänger,Great reed warbler
+Acrocephalus paludicola,Seggenrohrsänger,Aquatic warbler
+Acrocephalus palustris,Sumpfrohrsänger,Marsh warbler
+Acrocephalus schoenobaenus,Schilfrohrsänger,Sedge warbler
+Acrocephalus scirpaceus,Teichrohrsänger,Common reed warbler
+Actitis hypoleucos,Flussuferläufer,Common sandpiper
+Aegithalos caudatus,Schwanzmeise,Long-tailed tit
+Aegolius funereus,Raufußkauz,Boreal owl
+Aix galericulata,Mandarinente,Mandarin duck
+Aix sponsa,Brautente,Wood duck
+Alauda arvensis,Feldlerche,Eurasian skylark
+Alca torda,Tordalk,Razorbill
+Alcedo atthis,Eisvogel,Common kingfisher
+Alopochen aegyptiaca,Nilgans,Egyptian goose
+Anas acuta,Spießente,Northern pintail
+Anas crecca,Krickente,Eurasian teal
+Anas platyrhynchos,Stockente,Mallard
+Anser albifrons albifrons,Blässgans,Greater white-fronted goose
+Anser anser,Graugans,Greylag goose
+Anser cygnoides,Schwanengans,Swan goose
+Anser indicus,Streifengans,Bar-headed goose
+Anthus campestris,Brachpieper,Tawny pipit
+Anthus pratensis,Wiesenpieper,Meadow pipit
+Anthus trivialis,Baumpieper,Tree pipit
+Aquila chrysaetos,Steinadler,Golden eagle
+Ardea alba,Silberreiher,Great egret
+Ardea cinerea,Graureiher,Grey heron
+Ardea purpurea,Purpurreiher,Purple heron
+Arenaria interpres,Steinwälzer,Ruddy turnstone
+Asio flammeus,Sumpfohreule,Short-eared owl
+Asio otus,Waldohreule,Long-eared owl
+Athene noctua,Steinkauz,Little owl
+Aythya ferina,Tafelente,Common pochard
+Aythya fuligula,Reiherente,Tufted duck
+Aythya marila,Bergente,Greater scaup
+Aythya nyroca,Moorente,Ferruginous duck
+Botaurus stellaris,Rohrdommel,Eurasian bittern
+Branta bernicla,Ringelgans,Brant
+Branta canadensis,Kanadagans,Canada goose
+Branta leucopsis,Weißwangengans,Barnacle goose
+Bubo bubo,Uhu,Eurasian eagle-owl
+Bucephala clangula,Schellente,Common goldeneye
+Burhinus oedicnemus,Triel,Eurasian stone-curlew
+Buteo buteo,Mäusebussard,Common buzzard
+Buteo lagopus,Raufußbussard,Rough-legged buzzard
+Calcarius lapponicus,Spornammer,Lapland longspur
+Calidris alba,Sanderling,Sanderling
+Calidris alpina,Alpenstrandläufer,Dunlin
+Calidris maritima,Meerstrandläufer,Purple sandpiper
+Calidris pugnax,Kampfläufer,Ruff
+Caprimulgus europaeus,Ziegenmelker,European nightjar
+Carduelis carduelis,Stieglitz,European goldfinch
+Carpodacus erythrinus,Karmingimpel,Common rosefinch
+Certhia brachydactyla,Gartenbaumläufer,Short-toed treecreeper
+Cettia cetti,Seidensänger,Cetti's warbler
+Charadrius alexandrinus,Seeregenpfeifer,Kentish plover
+Charadrius dubius,Flussregenpfeifer,Little ringed plover
+Charadrius hiaticula,Sandregenpfeifer,Common ringed plover
+Chlidonias leucopterus,Weißflügelseeschwalbe,White-winged tern
+Chlidonias niger,Trauerseeschwalbe,Black tern
+Chroicocephalus ridibundus,Lachmöwe,Black-headed gull
+Ciconia ciconia,Weißstorch,White stork
+Ciconia nigra,Schwarzstorch,Black stork
+Cinclus cinclus,Wasseramsel,White-throated dipper
+Circaetus gallicus,Schlangenadler,Short-toed snake eagle
+Circus aeruginosus,Rohrweihe,Western marsh harrier
+Circus cyaneus,Kornweihe,Hen harrier
+Circus pygargus,Wiesenweihe,Montagu's harrier
+Coccothraustes coccothraustes,Kernbeißer,Hawfinch
+Coloeus monedula,Dohle,Western jackdaw
+Columba oenas,Hohltaube,Stock dove
+Columba palumbus,Ringeltaube,Common wood pigeon
+Coracias garrulus,Blauracke,European roller
+Corvus corax,Kolkrabe,Common raven
+Corvus cornix,Nebelkrähe,Hooded crow
+Corvus corone,Rabenkrähe,Carrion crow
+Corvus frugilegus,Saatkrähe,Rook
+Coturnix coturnix,Wachtel,Common quail
+Crex crex,Wachtelkönig,Corn crake
+Cuculus canorus,Kuckuck,Common cuckoo
+Cyanistes caeruleus,Blaumeise,Eurasian blue tit
+Cygnus olor,Höckerschwan,Mute swan
+Delichon urbicum,Mehlschwalbe,Western house martin
+Dendrocopos major,Buntspecht,Great spotted woodpecker
+Dendrocoptes medius,Mittelspecht,Middle spotted woodpecker
+Dryobates minor,Kleinspecht,Lesser spotted woodpecker
+Dryocopus martius,Schwarzspecht,Black woodpecker
+Egretta garzetta,Seidenreiher,Little egret
+Emberiza calandra,Grauammer,Corn bunting
+Emberiza citrinella,Goldammer,Yellowhammer
+Emberiza hortulana,Ortolan,Ortolan bunting
+Emberiza schoeniclus,Rohrammer,Common reed bunting
+Erithacus rubecula,Rotkehlchen,European robin
+Falco peregrinus,Wanderfalke,Peregrine falcon
+Falco subbuteo,Baumfalke,Eurasian hobby
+Falco tinnunculus,Turmfalke,Common kestrel
+Ficedula albicollis,Halsbandschnäpper,Collared flycatcher
+Ficedula hypoleuca,Trauerschnäpper,European pied flycatcher
+Ficedula parva,Zwergschnäpper,Red-breasted flycatcher
+Fringilla coelebs,Buchfink,Eurasian chaffinch
+Fringilla coelebs coelebs,Buchfink,Eurasian chaffinch
+Fringilla montifringilla,Bergfink,Brambling
+Fulica atra,Blässhuhn,Eurasian coot
+Fulmarus glacialis,Eissturmvogel,Northern fulmar
+Galerida cristata,Haubenlerche,Crested lark
+Gallinago gallinago,Bekassine,Common snipe
+Gallinula chloropus,Teichralle,Common moorhen
+Garrulus glandarius,Eichelhäher,Eurasian jay
+Gelochelidon nilotica,Lachseeschwalbe,Gull-billed tern
+Glaucidium passerinum,Sperlingskauz,Eurasian pygmy owl
+Grus grus,Kranich,Common crane
+Haematopus ostralegus,Austernfischer,Eurasian oystercatcher
+Haliaeetus albicilla,Seeadler,White-tailed eagle
+Himantopus himantopus,Stelzenläufer,Black-winged stilt
+Hippolais icterina,Gelbspötter,Icterine warbler
+Hirundo rustica,Rauchschwalbe,Barn swallow
+Ichthyaetus melanocephalus,Schwarzkopfmöwe,Mediterranean gull
+Ixobrychus minutus,Zwergdommel,Little bittern
+Jynx torquilla,Wendehals,Eurasian wryneck
+Lanius collurio,Neuntöter,Red-backed shrike
+Lanius excubitor,Raubwürger,Great grey shrike
+Lanius minor,Schwarzstirnwürger,Lesser grey shrike
+Lanius senator,Rotkopfwürger,Woodchat shrike
+Larus argentatus,Silbermöwe,European herring gull
+Larus cachinnans,Steppenmöwe,Caspian gull
+Larus canus,Sturmmöwe,Common gull
+Larus fuscus,Heringsmöwe,Lesser black-backed gull
+Larus marinus,Mantelmöwe,Great black-backed gull
+Larus michahellis,Mittelmeermöwe,Yellow-legged gull
+Limosa lapponica,Pfuhlschnepfe,Bar-tailed godwit
+Limosa limosa,Uferschnepfe,Black-tailed godwit
+Linaria cannabina,Bluthänfling,Common linnet
+Lophophanes cristatus,Haubenmeise,Crested tit
+Loxia curvirostra,Fichtenkreuzschnabel,Red crossbill
+Lullula arborea,Heidelerche,Woodlark
+Luscinia luscinia,Sprosser,Thrush nightingale
+Luscinia megarhynchos,Nachtigall,Common nightingale
+Luscinia svecica,Blaukehlchen,Bluethroat
+Lyrurus tetrix,Birkhuhn,Black grouse
+Mareca penelope,Pfeifente,Eurasian wigeon
+Mareca strepera,Schnatterente,Gadwall
+Mergus merganser,Gänsesäger,Common merganser
+Mergus serrator,Mittelsäger,Red-breasted merganser
+Merops apiaster,Bienenfresser,European bee-eater
+Milvus migrans,Schwarzmilan,Black kite
+Milvus milvus,Rotmilan,Red kite
+Monticola saxatilis,Steinrötel,Common rock thrush
+Morus bassanus,Basstölpel,Northern gannet
+Motacilla alba,Bachstelze,White wagtail
+Motacilla cinerea,Gebirgsstelze,Grey wagtail
+Motacilla citreola,Zitronenstelze,Citrine wagtail
+Motacilla flava,Schafstelze,Western yellow wagtail
+Muscicapa striata,Grauschnäpper,Spotted flycatcher
+Netta rufina,Kolbenente,Red-crested pochard
+Nucifraga caryocatactes,Tannenhäher,Spotted nutcracker
+Numenius arquata,Großer Brachvogel,Eurasian curlew
+Nycticorax nycticorax,Nachtreiher,Black-crowned night heron
+Oenanthe oenanthe,Steinschmätzer,Northern wheatear
+Oriolus oriolus,Pirol,Eurasian golden oriole
+Otis tarda,Großtrappe,Great bustard
+Pandion haliaetus,Fischadler,Osprey
+Panurus biarmicus,Bartmeise,Bearded reedling
+Parus major,Kohlmeise,Great tit
+Passer domesticus,Haussperling,House sparrow
+Passer montanus,Feldsperling,Eurasian tree sparrow
+Perdix perdix,Rebhuhn,Grey partridge
+Periparus ater,Tannenmeise,Coal tit
+Pernis apivorus,Wespenbussard,European honey buzzard
+Phalacrocorax carbo,Kormoran,Great cormorant
+Phasianus colchicus,Fasan,Common pheasant
+Phoenicopterus chilensis,Chileflamingo,Chilean flamingo
+Phoenicurus ochruros,Hausrotschwanz,Black redstart
+Phoenicurus phoenicurus,Gartenrotschwanz,Common redstart
+Phylloscopus collybita,Zilpzalp,Common chiffchaff
+Phylloscopus sibilatrix,Waldlaubsänger,Wood warbler
+Phylloscopus trochiloides,Grünlaubsänger,Greenish warbler
+Phylloscopus trochilus,Fitis,Willow warbler
+Pica pica,Elster,Eurasian magpie
+Picus viridis,Grünspecht,European green woodpecker
+Platalea leucorodia,Löffler,Eurasian spoonbill
+Pluvialis apricaria,Goldregenpfeifer,European golden plover
+Podiceps cristatus,Haubentaucher,Great crested grebe
+Podiceps grisegena,Rothalstaucher,Red-necked grebe
+Podiceps nigricollis,Schwarzhalstaucher,Black-necked grebe
+Poecile montanus,Weidenmeise,Willow tit
+Poecile palustris,Sumpfmeise,Marsh tit
+Prunella modularis,Heckenbraunelle,Dunnock
+Psittacula eupatria,Alexandersittich,Alexandrine parakeet
+Psittacula krameri,Halsbandsittich,Rose-ringed parakeet
+Pyrrhula pyrrhula,Gimpel,Eurasian bullfinch
+Rallus aquaticus,Wasserralle,Water rail
+Recurvirostra avosetta,Säbelschnäbler,Pied avocet
+Regulus ignicapilla,Sommergoldhähnchen,Common firecrest
+Regulus regulus,Wintergoldhähnchen,Goldcrest
+Remiz pendulinus,Beutelmeise,Eurasian penduline tit
+Rhea americana,Nandu,Greater rhea
+Riparia riparia,Uferschwalbe,Sand martin
+Rissa tridactyla,Dreizehenmöwe,Black-legged kittiwake
+Saxicola rubetra,Braunkehlchen,Whinchat
+Saxicola rubicola,Schwarzkehlchen,European stonechat
+Serinus serinus,Girlitz,European serin
+Sitta europaea,Kleiber,Eurasian nuthatch
+Somateria mollissima,Eiderente,Common eider
+Spatula clypeata,Löffelente,Northern shoveler
+Spatula querquedula,Knäkente,Garganey
+Spinus spinus,Erlenzeisig,Eurasian siskin
+Sterna dougallii,Rosenseeschwalbe,Roseate tern
+Sterna hirundo,Flussseeschwalbe,Common tern
+Sterna paradisaea,Küstenseeschwalbe,Arctic tern
+Sternula albifrons,Zwergseeschwalbe,Little tern
+Streptopelia decaocto,Türkentaube,Eurasian collared dove
+Streptopelia turtur,Turteltaube,European turtle dove
+Strix aluco,Waldkauz,Tawny owl
+Sturnus vulgaris,Star,Common starling
+Sylvia atricapilla,Mönchsgrasmücke,Eurasian blackcap
+Sylvia borin,Gartengrasmücke,Garden warbler
+Tachybaptus ruficollis,Zwergtaucher,Little grebe
+Tadorna ferruginea,Rostgans,Ruddy shelduck
+Tadorna tadorna,Brandgans,Common shelduck
+Tetrao urogallus,Auerhuhn,Western capercaillie
+Thalassarche melanophris,Schwarzbrauenalbatros,Black-browed albatross
+Thalasseus sandvicensis,Brandseeschwalbe,Sandwich tern
+Tringa glareola,Bruchwasserläufer,Wood sandpiper
+Tringa ochropus,Waldwasserläufer,Green sandpiper
+Tringa totanus,Rotschenkel,Common redshank
+Troglodytes troglodytes,Zaunkönig,Eurasian wren
+Turdus iliacus,Rotdrossel,Redwing
+Turdus merula,Amsel,Common blackbird
+Turdus philomelos,Singdrossel,Song thrush
+Turdus pilaris,Wacholderdrossel,Fieldfare
+Turdus torquatus,Ringdrossel,Ring ouzel
+Turdus viscivorus,Misteldrossel,Mistle thrush
+Tyto alba,Schleiereule,Barn owl
+Upupa epops,Wiedehopf,Eurasian hoopoe
+Uria aalge,Trottellumme,Common murre
+Vanellus vanellus,Kiebitz,Northern lapwing
+Zapornia pusilla,Zwergsumpfhuhn,Baillon's crake
